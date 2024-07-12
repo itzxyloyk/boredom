@@ -1,4 +1,8 @@
 import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.Random;
 
 public class TurnStyleGame {
     private static Scanner scanner = new Scanner(System.in);
